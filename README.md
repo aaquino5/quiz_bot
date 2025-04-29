@@ -19,7 +19,7 @@ Both tools allow users to:
 - Receive detailed explanations and source links for learning reinforcement
 - Practice SASE concepts like Zero Trust, SD-WAN, FWaaS, and more
 
-########### Key Principle: This is a study companion, not a "shortcut." No leaks. No dumps. Just pure, clean learning. ###########
+########### This is a study companion, not a "shortcut." No leaks. No dumps. Just pure, clean learning. ###
 
 ---
 
