@@ -31,7 +31,7 @@ Both tools allow users to:
 - Final score display
 - Detailed explanations after each question
 
-### CLI Version (`cli_quiz.py`)(`Telegram_Bot_Sample.py`)
+### Telegram Bot Version (`Telegram_Bot_Sample.py`)
 
 
 - Commands: `/start`, `/quiz`
