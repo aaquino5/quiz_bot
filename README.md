@@ -31,7 +31,8 @@ Both tools allow users to:
 - Final score display
 - Detailed explanations after each question
 
-########### Telegram Bot Version (`Telegram_Bot_Sample.py`) ###########
+### CLI Version (`cli_quiz.py`)(`Telegram_Bot_Sample.py`)
+
 
 - Commands: `/start`, `/quiz`
 - Inline multiple-choice answer buttons
