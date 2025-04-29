@@ -1,10 +1,3 @@
-# Exporting the current document to a .md file
-content = """# SASE Questions CLI & Telegram Bot
-
-Welcome, traveler of the Cloud-Security realms!
-This project equips you with two heroic tools to train your knowledge about **SASE (Secure Access Service Edge)**, built with passion, Python, and the stubborn refusal to accept mediocrity.
-
----
 
 ### Project Overview
 
